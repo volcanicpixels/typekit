@@ -1,0 +1,9 @@
+name: Blank Plugin
+version: "1.0"
+description: Blank Plugin - update configuration in lava.yaml
+url: http://www.google.com
+author: Daniel Chatfield
+contributors: volcanicpixels
+tags: ''
+license: GPLv2
+class_namespace: Volcanic_Pixels_Blank_Plugin
