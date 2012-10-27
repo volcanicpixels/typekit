@@ -28,6 +28,16 @@ class Lava extends Lava_Plugin {
 	#	Auto Hooks
 	#####################
 
+	function wp_head() {
+		$typekit = $this->_settings()->_get_value_for('typekit_id');
+		if( !empty( $typekit ) ) {
+			?>
+			<script type="text/javascript" src="//use.typekit.net/<?php echo $typekit ?>.js"></script>
+			<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+			<?php
+		}
+	}
+
 
 
 	#####################

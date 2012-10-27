@@ -1,0 +1,19 @@
+#
+#	Sections
+#
+
+general:
+  title: General Settings
+  type: section
+#
+# Settings
+#
+
+enabled:
+  title: Enable TypeKit
+  type: checkbox
+  default: on
+
+typekit_id:
+  title: Typekit Kit ID
+  type: text

@@ -1,0 +1,3 @@
+[submodule "libs/lava"]
+	path = libs/lava
+	url = git@github.com:volcanicpixels/Lava.git
