@@ -1,0 +1,2 @@
+Integrate with Typekit api to provide font choosing capabilities.
+Add Font choosing to tinymce and live previewing.

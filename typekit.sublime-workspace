@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"type",
+				"typekit"
+			],
+			[
 				"function",
 				"function_name"
 			],
@@ -287,6 +291,54 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/plugin.yaml",
+			"settings":
+			{
+				"buffer_size": 223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/G/Projects/Private-Blog/lofty.yaml",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/settings.yaml",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/admin_pages.yaml",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/plugin.php",
+			"settings":
+			{
+				"buffer_size": 1048,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lofty.yaml",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/User/lofty.sublime-build",
 	"command_palette":
@@ -328,6 +380,12 @@
 	},
 	"file_history":
 	[
+		"/G/Projects/wp-typekit/libs/lava/classes/Functions.php",
+		"/G/Projects/wp-typekit/libs/lava/classes/Page.php",
+		"/G/Projects/wp-typekit/libs/lava/classes/Page/Controller.php",
+		"/G/Projects/wp-typekit/lofty.yaml",
+		"/G/Projects/Private-Blog/src/settings.yaml",
+		"/G/Projects/Private-Blog/src/admin_pages.yaml",
 		"/G/Projects/canvas/src/less/global.less",
 		"/G/Projects/canvas/src/footer.php",
 		"/G/Projects/canvas/src/header.php",
@@ -449,13 +507,7 @@
 		"/D/Projects/Private-Blog/build/classes/Widget/Controller.php",
 		"/D/Projects/Private-Blog/build/classes/Extension/Controller.php",
 		"/D/Projects/Blank-Plugin/src/plugin.php",
-		"/D/Projects/Private-Blog/build/classes/Base.php",
-		"/D/Projects/Privacy-Plugin/plugin.php",
-		"/C/Users/Daniel/Documents/My Web Sites/WordPress Dev/wp-content/plugins/private-blog/assets/css/lava.css",
-		"/C/Users/Daniel/Documents/My Web Sites/WordPress Dev/wp-content/plugins/private-blog/plugin.php",
-		"/D/Projects/Private-Blog/build/classes/Skin/Controller.php",
-		"/D/Projects/Private-Blog/libs/lava/templates/default/Scene/default.twig",
-		"/D/Projects/Private-Blog/libs/lava/templates/default/Programme.twig"
+		"/D/Projects/Private-Blog/build/classes/Base.php"
 	],
 	"find":
 	{
@@ -543,8 +595,168 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/plugin.yaml",
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/G/Projects/Private-Blog/lofty.yaml",
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/settings.yaml",
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/admin_pages.yaml",
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/plugin.php",
+					"settings":
+					{
+						"buffer_size": 1048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lofty.yaml",
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
